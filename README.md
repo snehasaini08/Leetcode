@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/snehasaini08/Leetcode/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/snehasaini08/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/snehasaini08/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/snehasaini08/Leetcode/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/snehasaini08/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/snehasaini08/Leetcode/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/snehasaini08/Leetcode/tree/master/0507-perfect-number) |
 ## Enumeration
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/snehasaini08/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/snehasaini08/Leetcode/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
