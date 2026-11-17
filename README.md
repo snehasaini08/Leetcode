@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/snehasaini08/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/snehasaini08/Leetcode/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/snehasaini08/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/snehasaini08/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/snehasaini08/Leetcode/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/snehasaini08/Leetcode/tree/master/0507-perfect-number) |
 ## Enumeration
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/snehasaini08/Leetcode/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/snehasaini08/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/snehasaini08/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
