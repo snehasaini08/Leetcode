@@ -4,15 +4,23 @@ public:
         if(n<1)
         return 0;
 
-        while(n!=1)
+        int ans = 1 , i = 1;
+
+        while(i<=n)
         {
-            if(n%2==1)
-            return 0;
+            if(ans == n)
+                return 1;
 
-            n=n/2;
+            if(ans > n/2)
+                return 0;    
+            else
+                ans = i+i;
+
+                i = ans;
+
         }
+        return 0;
 
-        return 1;
 
         
     }
