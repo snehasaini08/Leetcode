@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/snehasaini08/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/snehasaini08/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/snehasaini08/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/snehasaini08/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/snehasaini08/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/snehasaini08/Leetcode/tree/master/0258-add-digits) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/snehasaini08/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/snehasaini08/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/snehasaini08/Leetcode/tree/master/0231-power-of-two) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/snehasaini08/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
