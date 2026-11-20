@@ -6,22 +6,24 @@ public:
             return false;
         }
 
-        int temp = x;
-        int ans = 0;
+        int num = x,rem,ans=0;
 
-        while (x != 0) {
+        while (num) {
 
-            int digit = x % 10;
+           rem = num % 10;
+            num/= 10;
 
-            if (ans > INT_MAX / 10 ||
-                (ans == INT_MAX / 10 && digit > 7)) {
-                return false;
+            if (ans > INT_MAX / 10 ) 
+            {
+                return 0;
             }
 
-            ans = ans * 10 + digit;
-            x = x / 10;
+            ans = ans * 10 + rem;
         }
 
-        return temp == ans;
+        if(ans == x)
+        return 1;
+        else
+        return 0;
     }
 };
