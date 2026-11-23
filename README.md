@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/snehasaini08/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/snehasaini08/Leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/snehasaini08/Leetcode/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/snehasaini08/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/snehasaini08/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/snehasaini08/Leetcode/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/snehasaini08/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/snehasaini08/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/snehasaini08/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/snehasaini08/Leetcode/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/snehasaini08/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/snehasaini08/Leetcode/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/snehasaini08/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Enumeration
