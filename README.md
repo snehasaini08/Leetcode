@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/snehasaini08/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/snehasaini08/Leetcode/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/snehasaini08/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/snehasaini08/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Enumeration
 |  |
 | ------- |
